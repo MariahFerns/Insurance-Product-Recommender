@@ -1,4 +1,4 @@
 scipy
 datetime
 feature_engine
-sklearn
+scikit-learn
